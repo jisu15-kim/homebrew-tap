@@ -1,6 +1,6 @@
 cask "mding" do
-  version "1.0.2"
-  sha256 "b41705f1b7284a610f2ce799227d8ff0490b73ecbb188f25e42475cc37874fc0"
+  version "1.0.3"
+  sha256 "ac3753bc456687c705a3169eb89816a18f6f9fc4f0aaf0d71505bb437b011aae"
 
   url "https://github.com/jisu15-kim/Mding/releases/download/v#{version}/Mding-#{version}.dmg"
   name "Mding"
@@ -13,7 +13,7 @@ cask "mding" do
   end
 
   auto_updates true
-  depends_on macos: :tahoe
+  depends_on macos: :sequoia
 
   app "Mding.app"
 
