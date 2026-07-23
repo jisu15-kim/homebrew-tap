@@ -1,6 +1,6 @@
 cask "swingpad" do
-  version "1.0.0"
-  sha256 "7d033a36b9e8e7ab65d7788adc859d66f5f94a02049e05f9c4e42dd809d954b8"
+  version "1.0.1"
+  sha256 "79849d3a8ec7897de3a83a240bc59fbb487626ba352418c0c4c716638e83207b"
 
   url "https://github.com/jisu15-kim/SwingPad/releases/download/v#{version}/SwingPad-#{version}.dmg"
   name "SwingPad"
