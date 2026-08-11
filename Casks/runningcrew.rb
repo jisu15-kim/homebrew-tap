@@ -1,6 +1,6 @@
 cask "runningcrew" do
-  version "1.0.0"
-  sha256 "7194c095c5838e0d7fbbab6bf6aeebd4e5b8dc48c2f7523e0ee972cc2a2aa22d"
+  version "1.1.0"
+  sha256 "59e1d8737be5bbbfac16f45a06e96f8f33f28d24194b414b88eedb3d27d5ea7b"
 
   url "https://github.com/jisu15-kim/RunningCrew/releases/download/v#{version}/RunningCrew-#{version}.dmg"
   name "RunningCrew"
