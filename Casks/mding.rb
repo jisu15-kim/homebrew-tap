@@ -1,6 +1,6 @@
 cask "mding" do
-  version "1.1.2"
-  sha256 "43b5edd641b588ff861d61024c686193d7d52725ef9c2f5ab08689f99ca56547"
+  version "1.1.3"
+  sha256 "2e6cb2d7c5a83f7f0c9851cb28ef7e41a305ff5375c9fa8c9029a27bbd23f904"
 
   url "https://github.com/jisu15-kim/Mding/releases/download/v#{version}/Mding-#{version}.dmg"
   name "Mding"
